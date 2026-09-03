@@ -1,0 +1,25 @@
+id: I55D7A55C
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-PG-05
+  title: ༄༅། །སྙན་ངག་གི་དཔེར་བརྗོད་རབ་གསལ་སྣང་བ་བཞུགས་སོ། །ལེའུ་གཉིས་པའི་དཔེར་བརྗོད།
+    །
+  author: མཛད་པ་པོ། སྨིན་གླིང་ཁྲི་པདྨ་འགྱུར་མེད་རྒྱ་མཚོ།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་ཁྲི་པདྨ་འགྱུར་མེད་རྒྱ་མཚོ།
+  sku: MIN-PG-05
+  cover: MIN-PG-06.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །སྙན་ངག་གི་དཔེར་བརྗོད་རབ་གསལ་སྣང་བ་བཞུགས་སོ། །ལེའུ་གཉིས་པའི་དཔེར་བརྗོད།
+    །
+  authors: *id001
+  sku: MIN-PG-05
+  cover: MIN-PG-06.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
+- Sabche
+- Yigchung
